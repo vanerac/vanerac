@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=vanerac&color=green)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanerac&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanerac&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vanerac/vanerac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
